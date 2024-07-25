@@ -2449,8 +2449,8 @@ a {
   max-width: 800px;
 }
 .cid-ujoBCzm071 {
-  padding-top: 6rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/white-brick-wall-texture-photography-backdrop-birthday-xmas-photo-background-vinyl-scene-picture-backdrop-736x711.jpg");
 }
 .cid-ujoBCzm071 .mbr-fallback-image.disabled {
@@ -2496,15 +2496,15 @@ a {
 .cid-ujoBCzm071 P {
   color: #ffffff;
 }
-.cid-ujoBCyUf5x {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-ujwyWeD3Sq {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/latar-belakanglatar-belakang-abstrak-vektor-gelap-latar-belakang-spanduk-abstrak-latar-belakang-untuk-unduhan-gratis-555x260.jpg");
 }
-.cid-ujoBCyUf5x .mbr-fallback-image.disabled {
+.cid-ujwyWeD3Sq .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ujoBCyUf5x .mbr-fallback-image {
+.cid-ujwyWeD3Sq .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2513,14 +2513,28 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-ujoBCyUf5x .bg-facebook {
+.cid-ujwyWeD3Sq .bg-facebook {
   background: #1778f2;
   color: #ffffff;
 }
-.cid-ujoBCyUf5x .bg-facebook:hover {
+.cid-ujwyWeD3Sq .bg-facebook:hover {
   background: #0b60cb;
 }
-.cid-ujoBCyUf5x .iconfont-wrapper {
+.cid-ujwyWeD3Sq .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-ujwyWeD3Sq .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-ujwyWeD3Sq .bg-youtube {
+  background: #ff0000;
+  color: #ffffff;
+}
+.cid-ujwyWeD3Sq .bg-youtube:hover {
+  background: #cc0000;
+}
+.cid-ujwyWeD3Sq .iconfont-wrapper {
   display: inline-block;
   font-size: 32px;
   border-radius: 50%;
@@ -2530,13 +2544,13 @@ a {
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
-.cid-ujoBCyUf5x [class^="socicon-"]:before,
-.cid-ujoBCyUf5x [class*=" socicon-"]:before {
+.cid-ujwyWeD3Sq [class^="socicon-"]:before,
+.cid-ujwyWeD3Sq [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
 }
-.cid-ujoBCyUf5x .mbr-section-title,
-.cid-ujoBCyUf5x .social-list {
+.cid-ujwyWeD3Sq .mbr-section-title,
+.cid-ujwyWeD3Sq .social-list {
   color: #ffffff;
 }
 .cid-ujwcQispsR {
